@@ -1,0 +1,25 @@
+.bg-info{
+          background-color:rgb(19, 53, 54) !important;
+          color: whitesmoke;
+}
+.btn-primary{
+          color: rgb(245, 245, 245) !important;
+          background-color: orangered;
+          border-radius: 10px;
+          width: 100px;
+          font-size: 18px;
+}
+.bikes{
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          width: 300px;
+}
+.text-warning{
+          color: hsl(16, 100%, 50%) !important;
+}
+.span{
+          color: orangered !important; 
+}
+.gray-img{
+          filter: grayscale(100%) !important;
+}
